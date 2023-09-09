@@ -1,1 +1,1 @@
-ession authentication Back-end Authentification
+0x02. Session authentication
